@@ -1,2 +1,3 @@
 # Cuadra_johnkyle
 MOBILE PROGRAMMING
+This is the work of John Kyle Cuadra from IT3R8 for his TodoList App. Please Take time to check and validate his work, Thank you...
